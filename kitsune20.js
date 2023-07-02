@@ -1,3 +1,4 @@
+window.gameHomeIndexURL = "https://buggem.github.io/openkitty";
 /*
 
  Copyright The Closure Library Authors.
